@@ -22,6 +22,30 @@
       "revId": "96883f61433bca8664745f8f2ed65009598febfb",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7faddb67_889a05c3",
+        "filename": "full_himawl.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 5530
+      },
+      "writtenOn": "2016-03-23T12:17:41Z",
+      "side": 1,
+      "message": "That is the ro.product.model of the stock build.prop",
+      "parentUuid": "7faddb67_9d5fa9e4",
+      "range": {
+        "startLine": 28,
+        "startChar": 17,
+        "endLine": 28,
+        "endChar": 27
+      },
+      "revId": "96883f61433bca8664745f8f2ed65009598febfb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
