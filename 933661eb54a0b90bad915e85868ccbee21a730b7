@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7faddb67_088855c4",
+        "filename": "full_himawl.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-03-23T17:57:46Z",
+      "side": 1,
+      "message": "Don\u0027t necessarily need to change this, this is what shows up on Google Play, for instance.",
+      "revId": "933661eb54a0b90bad915e85868ccbee21a730b7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
