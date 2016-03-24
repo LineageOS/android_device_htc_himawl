@@ -19,5 +19,8 @@
 
 TARGET_OTA_ASSERT_DEVICE := htc_himawl,himawl
 
+# Audio VoLTE
+AUDIO_FEATURE_ENABLED_MULTI_VOICE_SESSIONS := true
+
 # inherit from the proprietary version
 -include vendor/htc/himawl/BoardConfigVendor.mk
