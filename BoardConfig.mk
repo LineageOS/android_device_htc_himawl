@@ -17,6 +17,8 @@
 # inherit from hima-common
 -include device/htc/hima-common/BoardConfigCommon.mk
 
+TARGET_KERNEL_CONFIG := cyanogenmod_himawl_defconfig
+
 TARGET_OTA_ASSERT_DEVICE := htc_himawl,himawl
 
 # inherit from the proprietary version
